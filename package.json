@@ -1,0 +1,16 @@
+{
+  "name": "jsserver",
+  "version": "1.0.0",
+  "description": "rate limiter",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "author": "Jordan Maggin",
+  "license": "UNLICENSED",
+  "private": "true",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
